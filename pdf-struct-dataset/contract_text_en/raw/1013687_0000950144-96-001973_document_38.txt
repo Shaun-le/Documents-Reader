@@ -1,0 +1,193 @@
+<PAGE>   1
+
+
+                                                                  EXHIBIT 10.37
+
+
+
+                    CONFIDENTIALITY/NON-DISCLOSURE AGREEMENT
+                   PERMITTING ACCESS TO SYSTEM DOCUMENTATION
+                       AND DATA FILES FOR DATA CONVERSION
+
+
+THIS CONFIDENTIALITY/NON-DISCLOSURE AGREEMENT PERMITTING ACCESS TO SYSTEM
+DOCUMENTATION AND DATA FILES FOR DATA CONVERSION (hereinafter referred to as
+the "Agreement") is made and entered into as of the last day and year written
+below by and between Phoenix International Ltd., Inc., a Florida Corporation,
+of 900 Winderley Place, Suite 140, Maitland, Florida  32751 ("Company"), and
+the following parties:
+
+
+
+<TABLE>
+<S>                                          <C>
+CLIENT:                                      RECIPIENT:
+
+
+-------------------------------------------  -------------------------------------------------------       
+                                                                                                           
+                                                                                                           
+-------------------------------------------  -------------------------------------------------------       
+                                                                                                           
+                                                                                                           
+-------------------------------------------  -------------------------------------------------------       
+                                                                                                           
+Contact:                                     Contact:                                                      
+        -----------------------------------          -----------------------------------------------       
+                                                                                                           
+Telephone:                                   Telephone:                                                    
+          ---------------------------------            ---------------------------------------------       
+(above party is hereinafter to as "Client")  (above party is hereinafter referred to as "Recipient")
+</TABLE>
+
+
+
+                             Purpose of Agreement:
+
+Company has developed, owns, uses, or re-markets certain confidential and
+proprietary computer software and related documentation and materials (all of
+which shall collectively be referred to hereinafter as "Application Software"),
+which Application Software is used to process certain of Client's data pursuant
+to a separate license or service agreement between Company and Client.  Client
+desires that certain of its data being processed by the Application Software be
+converted to another software program (hereinafter referred to as the
+"Conversion"), and Client desires that Recipient assist with this Conversion.
+In order for Recipient to perform Recipient's job functions with Client, Client
+desires that Recipient have access to those data files of Client and to those
+portions of the documentation for the Application Software which are
+specifically identified in Paragraph 1 below (those items identified in
+Paragraph 1 shall collectively be hereinafter referred to as the "Confidential
+Information").  Recipient, on its own behalf and on behalf of its employees,
+agrees to abide by the terms of this Agreement.  Company and Client agree to
+permit Recipient to have access to the Confidential Information as requested
+herein by Client, but only in accordance with the terms of this Agreement.
+
+Therefore, in consideration of the premises hereof, and other good and valuable
+consideration not herein recited but the receipt and sufficiency of which are
+hereby acknowledged, the parties hereto agree as follows:
+
+<PAGE>   2
+
+CONFIDENTIALITY/NON-DISCLOSURE AGREEMENT
+
+
+
+      1.   Grant of Access to Confidential Information.  Company and
+           Client hereby agree to permit Recipient to have access to the
+           Confidential Information listed below for the sole purpose of
+           assisting Client with the Conversion, and such access is granted
+           solely upon the terms and conditions set forth in this Agreement.
+           This Agreement DOES NOT grant to Recipient the right to have access
+           to any portion of the Application Software other than the
+           documentation specifically set forth below.  The Confidential
+           Information to be disclosed is as follows:
+
+Client data files to be Deconverted:
+                                    -----------------------------------------
+
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+
+Application Software Documentation to be Provided to Recipient:
+                                                               --------------
+
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+
+      2.   Confidential Nature of Application Software and Confidential
+           Information.  Recipient acknowledges that the Application Software
+           and all documentation and related materials are proprietary to
+           Company and are confidential and constitute a valuable asset of
+           Company, and that the data files contained in the Confidential
+           Information are proprietary to Client and are confidential and
+           constitute a valuable asset of Client.  Recipient agrees to
+           safeguard the Confidential Information, and Recipient shall not
+           disclose or give access to the Confidential Information to any
+           person or entity other than those employees of Recipient who have a
+           need for such access in order to assist Client with Conversion.
+
+      3.   Unauthorized Use.  Recipient shall not make any unauthorized
+           use or disclosure of the Confidential Information and Recipient
+           shall promptly advise Company and Client in writing if Recipient
+           learns of any unauthorized use or disclosure of the Confidential
+           Information or Application Software by anyone, whether an employee,
+           former employee or agent of Recipient, or others, and shall
+           immediately take all reasonable steps within Recipient's power to
+           stop any unauthorized use or disclosure of the Confidential
+           Information or Application Software by anyone.  Recipient shall not,
+           and it will not permit anyone else, to copy the Confidential
+           Information or Application Software.
+
+      4.   Termination.  In the event an employee of Recipient
+           terminates his or her employment with Recipient, Recipient agrees to
+           require such terminated employee to immediately return to Recipient
+           all copies of the Confidential Information in such employee's
+           possession at the time of termination of employment.  Recipient
+           shall, upon the earlier occurrence of (i) completion of the tasks
+           assigned to it by Client which require access to the Confidential
+
+
+<PAGE>   3
+
+
+CONFIDENTIALITY/NON-DISCLOSURE AGREEMENT
+
+
+           Information, or (ii) Recipient's termination of employment with
+           Client, return to Client all copies of the Confidential Information.
+
+      5.   Injunctive Relief.  Recipient acknowledges that the use or
+           disclosure of the Confidential Information or Application Software
+           by Recipient (including any of its employees or anyone who obtains
+           the Confidential Information or Application Software or gains access
+           thereto from or through Recipient or any of its employees) in a
+           manner inconsistent with this Agreement will cause Company or Client
+           as the case may be, irreparable damage.  In such event, Company and
+           Client shall have the right to equitable and injunctive relief to
+           prevent any unauthorized use or disclosure, and to such damages as
+           are occasioned by any such unauthorized use or disclosure, including
+           but not limited to reasonable attorneys' fees and costs incurred in
+           enforcing Company's or Client's rights hereunder.
+
+      6.   Miscellaneous.  This agreement shall be governed by,
+           interpreted in accordance with, and enforced under the laws of the
+           State of Florida.  Recipient and Client hereby agree and acknowledge
+           that Company is a benefited third party to this Agreement.
+           Modification of this Agreement must be in writing and signed by all
+           parties.
+
+      IN WITNESS WHEREOF, the parties hereto have executed this Addendum in
+      manner and form sufficient to bind them on the day and year indicated
+      after their respective execution hereof.
+
+
+      CLIENT:                       RECIPIENT:
+      
+      
+      ----------------------------  ----------------------------
+      Authorized Signature          Authorized Signature
+      
+      
+      ----------------------------  ----------------------------
+      Type or Print Name and Title  Type or Print Name and Title
+      
+      
+      ----------------------------  ----------------------------
+      Date                          Date
+
+
+      PHOENIX INTERNATIONAL LTD., INC.
+
+
+      ----------------------------
+      Authorized Signature
+
+
+      ----------------------------
+      Type or Print Name and Title
+
+
+      ----------------------------
+      Date

@@ -1,0 +1,114 @@
+Exhibit 10.19
+
+                         MUTUAL NON-DISCLOSURE AGREEMENT
+
+This  Mutual  Non-Disclosure  Agreement  (the  "Agreement")  is by  and  between
+StrikeForce  Technologies,  Inc.  ("StrikeForce"),  and the  person,  company or
+entity listed below (the "Company").
+
+1.  StrikeForce  and Company are  interested in disclosing to each other certain
+information   relating  to  their  respective  business  plans  and  proprietary
+technology  (hereinafter  "Information")  for the  purposes  of  evaluation  and
+consultation.  For the  purposes of this  Agreement,  each party shall be in the
+position of  "Disclosing  Party" for the  Information  it discloses to the other
+party,  and  each  party  shall  be in  the  position  of  "Recipient"  for  the
+Information it receives from the other party.  Such  Information is a commercial
+asset of considerable value to Disclosing Party, and Disclosing Party is willing
+to  disclose  such  Information  only under the terms and  conditions  set forth
+below. This Agreement, when signed by authorized  representatives of each party,
+will  confirm  that the  Recipient  is willing to receive  such  Information  of
+Disclosing  Party  subject  to the  following  terms and  conditions,  which the
+parties intend to be legally binding.
+
+2. The Information  shall include such proprietary and confidential  information
+disclosed orally,  by demonstration,  or in writing at any time, and may include
+without  limitation   business  plans,   know-how,   source  code,   algorithms,
+flow-charts,  blueprints,  and other  information  not readily  available to the
+general public,  whether or not protectable by patent,  copyright or other forms
+of intellectual  property law. The Information does not need to be identified as
+or marked "confidential" or "proprietary" or any similar terms.
+
+3. The  Recipient  shall  hold the  Information  in  confidence,  and  shall use
+reasonable  efforts  to  prevent  any  unauthorized  use  or  disclosure  of the
+Information. Except as expressly provided in this Agreement, the Recipient shall
+not  disclose  or divulge  the  Information,  in whole or in part,  to any third
+party, including licensees or customers anywhere in the world. The Recipient may
+not use the  Information  for any purpose other than the  aforesaid  without the
+prior written consent of a duly authorized  representative  of Disclosing Party.
+The Recipient may disclose the Information  only to its officers,  employees and
+independent  contractors  who are necessary  for the purpose of evaluating  such
+Information,  and Recipient  shall be responsible  for any disclosure by them in
+violation of this Agreement.
+
+4. Nothing  contained in this  Agreement  shall be construed by  implication  or
+otherwise,  as an obligation to enter into any further agreement relating to the
+Information or as grant of a license to use the Information or any  intellectual
+property  rights therein other than for evaluation  and  consultation  purposes.
+Disclosing  Party retains any and all proprietary and ownership rights it has in
+and to the Information it discloses.
+
+5.  This  Agreement  shall  be  effective  as of the  Effective  Date and may be
+terminated  by either party upon thirty (30) day's prior  written  notice to the
+other party. In any event, this Agreement shall automatically  terminate two (2)
+years after the Effective Date. The  confidentiality  and use restrictions  with
+respect  to  Proprietary  and  Confidential   Information   disclosed  prior  to
+termination shall survive for a period of two (2) years after the termination.
+
+6. Upon  completion  of the aforesaid  evaluation  and in the absence of further
+agreement of the parties,  the Recipient shall cease all use and make no further
+use of the  Information.  At Disclosing  Party's  request,  the Recipient  shall
+promptly  return or destroy all  Information  disclosed by Disclosing  Party and
+shall retain no copies.
+
+7. The parties hereby  acknowledge  and agree that in the event of any violation
+or a threatened  violation of this  Agreement by the  Recipient,  the Disclosing
+Party  shall be  authorized  and  entitled  to seek from any court of  competent
+jurisdiction  preliminary and permanent  injunctive relief. This Agreement shall
+be  governed  by the law of the United  States of  America  and the State of New
+Jersey  without  regard to  conflicts  of laws  principles.  Sections  3-7 shall
+survive any termination or expiration of this Agreement.
+
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+
+Whereof, the parties execute this Agreement as of the Effective Date:           April 5, 2005
+                                                                                --------------------------------------
+
+<S>                              <C>                               <C>                          <C>    
+StrikeForce      StrikeForce Technologies, Inc.                Company
+                                                                                --------------------------------------
+
+Signature                                                      Signature
+                 -----------------------------------------                      --------------------------------------
+Name             Mark L. Kay                                   Name
+                 -----------------------------------------                      --------------------------------------
+Title            CEO                                           Title
+                 -----------------------------------------                      --------------------------------------
+
+Email            marklkay@sftnj.com                            Email
+                 -----------------------------------------                      --------------------------------------
+Telephone        1-732-661-9641                                Telephone
+                 -----------------------------------------                      --------------------------------------
+Fax              1-732-661-9647                                Fax
+                 -----------------------------------------                      --------------------------------------
+
+Address          1090 King Georges Post Road                   Address
+                 -----------------------------------------                      --------------------------------------
+Address                                                        Address
+                 -----------------------------------------                      --------------------------------------
+City             Edison                                        City
+                 -----------------------------------------                      --------------------------------------
+State/Prov       NJ                                            State/Prov
+                 -----------------------------------------                      --------------------------------------
+Zip/Postal       08837                                         Zip/Postal
+                 -----------------------------------------                      --------------------------------------
+Country          USA                                           Country
+                 -----------------------------------------                      --------------------------------------
+</TABLE>
+
+
+                                       2

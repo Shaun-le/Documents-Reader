@@ -1,0 +1,258 @@
+
+
+                                   APPENDIX 4
+
+                            NON-DISCLOSURE AGREEMENT
+
+      THIS NON-DISCLOSURE AGREEMENT (the "Agreement") made this 18th day of
+November, 2005, by and between Yale University School of Medicine, a nonprofit,
+educational corporation, organized and existing under the laws of the State of
+Connecticut, with an office located at Yale University School of Medicine,
+having its principal office at 47 College Street, Suite 203, New Haven,
+Connecticut (hereinafter, the "Pilot Site") and Advanced BioPhotonics Inc., a
+corporation organized and existing under the laws of the State of Delaware ,
+with its principal office at 125 Wilbur Place, Suite 120, Bohemia, New York
+(hereinafter, the "ABP") and the parties hereby agree as follows:
+
+      1. The parties intend to pursue a Pilot Study to test its functionality,
+performance and reliability to determine the applicability of this technology to
+plastic surgery applications, which will be carried out by Dr. Yuan Liu
+utilizing ABP's BioScanIR(R) system consisting of the following elements: (i)
+system hardware components: infrared camera, mobile cart, computer workstation,
+camera power supply, universal power management unit, temperature controller and
+black body; (ii) proprietary DIRI(R) software for control of system components,
+data acquisition, data processing, data archiving and reporting; and (iii)
+applications software packages (hereinafter, collectively referred to as the
+"System") as further defined in the Pilot Site Agreement between the parties
+(hereinafter referred to as the "Pilot Study"), and in the course of which the
+parties may exchange Proprietary Information, as hereinafter defined. The
+parties further desire to protect such Proprietary Information from unauthorized
+disclosure and use under the terms and conditions herein.
+
+      2. For purposes of this Agreement, Proprietary Information shall mean,
+without limitation, computer programs, code, algorithms, names and expertise of
+employees and consultants, formulas, processes, inventions, schematics and other
+technical, business, financial, pricing and product development plans, forecasts
+and strategies, together with any analysis or tangible embodiments of the
+Disclosing Party's Proprietary Information created by the Receiving Party.
+Proprietary Information shall be designated as such in writing by the Disclosing
+Party by appropriate legend or stamp, or, if first disclosed in a non-written or
+other non-tangible form, Proprietary Information shall be identified by the
+Disclosing Party at the time of disclosure as being disclosed in confidence and
+shall be reduced to tangible form and marked as confidential or proprietary and
+such tangible form shall be delivered to the Receiving Party within thirty (30)
+days after the date of first disclosure. During the above stated thirty-day
+period such Proprietary Information shall be protected in accordance with the
+terms of this Agreement. Proprietary Information shall further include any
+information or data that evidence, record, derive from or reveal any Proprietary
+Information. Notwithstanding the foregoing, the components of the System are
+hereby deemed to be Proprietary Information and as such are protected in
+accordance with the terms of this Agreement.
+
+                                       28
+<PAGE>
+
+      3. The Receiving Party shall preserve Proprietary Information received
+from the Disclosing Party in confidence by exercising at least the same degree
+of care used to restrict disclosure and use of the Receiving Party's own similar
+confidential information, but at least a reasonable degree of care, and shall
+refrain from disclosing such Propriety Information to its employees not involved
+in the Pilot Study, its consultants, representatives, or agents ( the
+"Affiliates") or to any third party without written authorization from the
+Disclosing Party. This Agreement shall be construed to bind and impose
+obligations upon any other divisions, subsidiaries, business units, and/or
+affiliated companies of the Receiving Party that receive access to the
+Proprietary Information of the Disclosing Party. The Receiving Party shall
+ensure that all copies of Proprietary Information stored electronically on its
+server, tape backup or on the hard drives of computers used by its Affiliates in
+connection with the Pilot Study have been permanently deleted and Receiving
+Party shall certify such deletion in writing to the Disclosing Party. Receiving
+Party will ensure that all of its Affiliates sign a Non-Disclosure Agreement
+containing confidentiality restrictions at least as restrictive as those set
+forth in this Agreement.
+
+      4. The Receiving Party shall use Proprietary Information received from the
+Disclosing Party solely for the purposes set forth in Paragraph 1. Any other use
+of the Proprietary Information is explicitly forbidden. This restriction shall
+survive termination of this Agreement.
+
+      5. This Agreement shall not restrict disclosure or use of Proprietary
+Information that is:
+
+      A.    Now, or hereafter becomes, through no act or failure to act on the
+            part of Receiving Party, generally known or available; or
+
+      B.    Known by the Receiving Party at the time of receiving such
+            information as evidenced by records of the Receiving Party; or
+
+      C.    Hereafter furnished to the Receiving Party, as a matter of right and
+            without restriction on disclosure, by a third party who had not
+            received any Proprietary Information from the Disclosing Party or
+            the Receiving Party; or
+
+      D.    is approved by the disclosing party for disclosure without
+            restriction in a written document which is signed by a duly
+            authorized officer of such disclosing party; or
+
+      E.    Independently developed by the Receiving Party by persons who did
+            not have access to the Disclosing Party's information and without
+            breach of this Agreement.
+
+      6. The Receiving Party may disclose the Disclosing Party's Proprietary
+Information to the extent required to be disclosed pursuant to final court
+order; provided, however, that the Receiving Party: (i) immediately notifies the
+Disclosing Party upon its receipt of any court order or other document that
+requests or demands disclosure of Proprietary Information; and (ii) assert the
+privileged and confidential nature of the Proprietary Information against the
+third party seeking disclosure; and (iii) cooperate fully with the Disclosing
+Party in protecting against any such disclosure and/or obtaining a protective
+order narrowing the scope of such disclosure of the Proprietary Information. In
+the event that such protection against disclosure is not obtained, the receiving
+party will be entitled to disclose the Proprietary Information, but only to the
+extent necessary to legally comply with such compelled disclosure and to have
+such required disclosure made under a protective secrecy order.
+
+                                       29
+<PAGE>
+
+      7. The Receiving Party shall notify the Disclosing Party in writing
+immediately upon discovery of any unauthorized use or disclosure of Proprietary
+Information, and will reasonably cooperate with the Disclosing Party to regain
+possession of the Proprietary Information and prevent its further unauthorized
+use.
+
+      8. Proprietary Information shall remain the property of the originating
+party. Neither this Agreement nor any exchange of Proprietary Information
+hereunder shall be construed as granting any right or license under any
+copyright, invention, or patent now or hereafter owned or controlled by either
+party. Each party shall use and rely upon Proprietary Information received from
+the other at its sole risk and expense.
+
+      9. All notices, instructions, requests, authorizations, consents, demands
+and other communications hereunder shall be in writing and shall be sent by
+facsimile, overnight courier or registered airmail, postage prepaid, addressed
+as follows:
+
+      For Pilot Site:
+
+          Yale Plastic and Reconstructive Surgery
+          Department of Surgery
+          Yale School of Medicine
+          333 Cedar Street (BB-330)
+          P.O. Box 208041 New Haven, Connecticut 06520-8041
+
+          Attention: Dr. Yuan Liu/Dr. John Persing
+
+          Facsimile: 203-785-5714
+
+      For ABP:
+
+          Advanced BioPhotonics Inc.
+          125 Wilbur Place, Suite 120
+          Bohemia, New York  11716
+
+          Attention: Kevin Healy, General Counsel
+
+          Facsimile: 631-244-7960
+
+                                       30
+<PAGE>
+
+Either party hereto may change its address by a notice given to the other party
+hereto in the manner set forth above. Notice given by mail shall be considered
+to have been given five (5) days after the mailing thereof, and notices given by
+facsimile shall be considered to have been given when received.
+
+      10. This Agreement may be terminated by either party upon thirty (30) days
+written notice to the other. Unless thus earlier terminated, this Agreement
+shall terminate upon completion of the Pilot Study. The confidentiality
+obligations under this Agreement will survive termination of this Agreement for
+a period of three (3) years.
+
+      11. Upon termination, the Receiving Party shall cease use of the
+Disclosing Party's Proprietary Information, and shall destroy all Proprietary
+Information, including without limitation, reports, analyses, e-mails or any
+other derivative embodiments of the Proprietary Information, , together with all
+copies thereof, in its possession or control and furnish the Disclosing Party
+with written certification of destruction. Alternatively, at the request of the
+Disclosing Party, the Receiving Party shall return all such Proprietary
+Information, including without limitation, reports, analyses, e-mails or any
+other derivative embodiments of the Proprietary Information, together with all
+copies thereof to the Disclosing Party. The Receiving Party shall ensure that
+all copies of Proprietary Information stored electronically on its server, tape
+backup or on the hard drives of computers used by Receiving Party's Affiliates
+in connection with the Pilot Study have been permanently deleted and Receiving
+Party shall certify such deletion in writing to the Disclosing Party.
+
+      12. Each party shall bear all costs and expenses incurred by it under or
+in connection with this Agreement, provided, however, that the prevailing party
+in any litigation commenced to enforce or construe the terms of this Agreement
+shall be entitled to collect from the other party the costs of such litigation,
+including reasonable attorneys' fees. Nothing in this Agreement shall be
+construed as an obligation by either party to enter a contract, subcontract, or
+other business relationship with the other party in connection with the Pilot
+Study.
+
+      13. The Receiving Party hereby acknowledges and agrees that in the event
+of any breach of this Agreement by the Receiving Party, including, without
+limitation, the actual or threatened disclosure of the Disclosing Party's
+Proprietary Information without the prior express written consent of the
+Disclosing Party, the Disclosing Party will suffer an irreparable injury, such
+that no remedy at law will afford the Disclosing Party with adequate protection
+against, or appropriate compensation for, such injury. The Receiving Party
+hereby agrees that the Disclosing Party may be entitled to specific performance
+of the Receiving Party's obligations under this Agreement, as well as further
+relief (injunctive or otherwise) as may be granted by a court of competent
+jurisdiction.
+
+      14. This Agreement shall be governed by and interpreted in accordance with
+the laws of the State of Connecticut and shall be enforceable in the courts of
+that state.
+
+      15. This Agreement contains the entire understanding between the parties,
+superseding all prior or contemporaneous communications, agreements and
+understandings between the parties with respect to the exchange of Proprietary
+Information in connection with the Pilot Study.
+
+                                       31
+<PAGE>
+
+      16. If any part, term or provision of this Agreement shall be held
+illegal, unenforceable, or in conflict with international law or any law of a
+federal, state or local government having jurisdiction over this Agreement, the
+validity of the remaining portions of this Agreement shall not be affected
+thereby.
+
+      17. This Agreement may be executed in two (2) or more counterparts, each
+of which shall be deemed an original, but all of which together shall constitute
+one and the same instrument.
+
+      IN WITNESS WHEREOF, each party has caused this Agreement to be executed in
+duplicate originals by its duly authorized representative.
+
+YALE UNIVERSITY                             ADVANCED BIOPHOTONICS INC.
+SCHOOL OF MEDICINE
+
+By:                                         By:
+       ----------------------------------          -----------------------------
+Name:  Penrhyn E. Cook                      Name:  Denis A. O'Connor
+
+Title: Executive Director                   Title: President and CEO
+       Grant and Contract Administration
+
+YALE UNIVERSITY
+SCHOOL OF MEDICINE
+
+By:
+       ----------------------------------
+Name:  Dr. John Persing
+
+Title: Principal Investigator
+
+By:
+       ----------------------------------
+Name:  Dr. Yuan Liu
+
+Title: Principal Investigator
+
+                                       32

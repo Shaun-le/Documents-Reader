@@ -1,0 +1,325 @@
+EXHIBIT 99.4
+
+
+       CONFIDENTIALITY, NON-DISCLOSURE AND RESTRICTIVE COVENANT AGREEMENT
+
+     This Confidentiality, Non-Disclosure and Restrictive Covenant Agreement,
+dated as of this 30th day of August, 2005 (this "Agreement"), by and among (i)
+Hittite Microwave Corporation, a Delaware corporation ("Hittite"), (ii) HMC
+Acquisition Corporation, a Delaware corporation and a wholly-owned subsidiary of
+Hittite, ("Buyer" and, together with Hittite, the "Buyer Parties"), (iii) Simtek
+Corporation, a Colorado corporation ("Simtek") and (iv) Q-Dot, Inc., an Illinois
+corporation and a wholly-owned subsidiary of Simtek, (the "Company" and,
+together with Simtek, the "Seller Parties").
+
+     WHEREAS, pursuant to an Asset Purchase Agreement dated as of the date
+hereof by and among the Buyer Parties and the Seller Parties, the Buyer Parties
+have agreed, subject to the terms and conditions set forth therein, to acquire
+substantially all the assets of the Company (the "Acquisition");
+
+     WHEREAS, in partial consideration of the payment of the Purchase Price (as
+defined at Section 1.7 of the Asset Purchase Agreement) of the Acquisition and
+in accordance with Sections 4.4 and 6.9 of the Asset Purchase Agreement, Seller
+Parties agree to enter into this Agreement;
+
+     WHEREAS, the Seller Parties acknowledge that the covenants of the Seller
+Parties set forth in this Agreement are an essential element of the Acquisition
+and that, but for this Agreement, Buyer Parties would not have entered into the
+Asset Purchase Agreement; and
+
+     WHEREAS, the Seller Parties possess substantial and intimate knowledge of
+the business and affairs of the Company and its policies, methods, personnel and
+operations;
+
+     NOW, THEREFORE, in consideration of the premises and the mutual covenants
+and agreements herein contained, the parties hereto agree as follows:
+
+     1. Non-Competition. For a period of four years from the date of this
+Agreement (the "Restricted Period"), Seller Parties shall not, directly or
+indirectly, engage in The Company's Business (as hereinafter defined) or,
+without the prior written consent of Buyer Parties, directly or indirectly, own
+an interest in, manage, operate, join, control, lend money or render financial
+or other assistance to or participate in, as a partner, stockholder, consultant
+or otherwise, any Person that competes with The Company's Business as it is
+conducted as of the Closing Date. For purposes of this Agreement, the term the
+"The Company's Business" shall mean any business anywhere in the world that
+provides products or services of the kind provided by the Business (as defined
+in the Recitals of the Asset Purchase Agreement) as of the Closing Date.
+Notwithstanding the foregoing, for the purposes of this Section 1, ownership of
+securities having no more than one percent (1%) of the outstanding voting power
+of any competitor which are listed on any national securities exchange,
+automated securities exchange (including Nasdaq) or traded actively in the
+national over-the-counter market (in each case including any foreign equivalent)
+shall not be deemed to be in violation of this Agreement.
+
+
+
+<PAGE>
+
+
+
+     2. Confidentiality. During the Restricted Period and at all times
+thereafter, Seller Parties will keep and hold all Confidential Information (as
+hereinafter defined) in strict confidence, and will not use or disclose in any
+way any of such Confidential Information without the prior express written
+consent of the Buyer Parties. For the purposes of this Agreement, the term
+"Confidential Information" shall mean all trade secrets and confidential or
+proprietary information (and any tangible representation thereof) owned,
+possessed or used in connection with The Company Business or by the Buyer
+Parties and its Affiliates; provided, however, that "Confidential Information"
+does not include information which is or becomes generally available to the
+public other than as a result of a disclosure by a Seller Party..
+
+     3. Non-Solicitation. During the Restricted Period, Seller Parties agree
+that they will not in any way, directly or indirectly, for the purpose of
+conducting or engaging in any business that competes with The Company Business,
+call upon, solicit, advise or otherwise do, or attempt to do, business with any
+customers of the Company engaged prior to the Closing Date (provided that Simtek
+shall have the right to do business with any of its current or former
+customers), or interfere with or attempt to interfere with any officers,
+employees or consultants of the Buyer Parties, induce or attempt to induce any
+of them to leave the employ of the Buyer Parties or violate the terms of their
+Contracts, or any employment arrangements, with Buyer Parties, or, without the
+prior written consent of Buyer Parties, directly or indirectly, solicit to hire,
+hire or employ, whether as an employee, director, contractor, consultant or
+otherwise any officers, employees or consultants of the Buyer Parties, unless
+such Person's employment is terminated by the Seller Parties or its Affiliate;
+provided, however, that this Section 3 shall not prohibit general solicitations
+of or advertisements for employment by the Seller Parties that are not generally
+directed at any officers, employees, representatives or agents of the Buyer
+Parties, so long as the Seller Parties do not hire any such Person who responds
+to any such general solicitation or advertisement.
+
+     4. Certain Definitions. For purposes of this Agreement, (a) the term
+"Person" shall mean an individual, a corporation, an association, a partnership,
+an estate, a trust and any other entity or organization, (b) the term
+"Affiliate" shall mean with respect to any Person, any Person which, directly or
+indirectly, controls, is controlled by, or is under common control with, such
+Person, and (c) the term "control" (including, with correlative meaning, the
+terms "controlled by" and "under common control with"), as used with respect to
+any Person, means the possession, directly or indirectly, of the power to direct
+or cause the direction of the management and policies of such Person, whether
+through the ownership of voting securities, by contract or otherwise.
+
+     5. Extension of Restricted Period. The Restricted Period shall be extended
+by the length of any period during which the Seller Parties are in breach of the
+terms of this Agreement.
+
+     6. Amendments and Supplements. This Agreement may not be amended, modified
+or supplemented by the parties hereto in any manner, except by an instrument in
+writing signed by the Seller Parties and the Buyer Parties.
+
+
+                                      -2-
+<PAGE>
+
+
+     7. No Waiver. The terms and conditions of this Agreement may be waived only
+by a written instrument signed by the party waiving compliance. The failure of
+any party hereto to enforce at any time any of the provisions of this Agreement
+shall in no way be construed to be a waiver of any such provision, nor in any
+way to affect the validity of this Agreement or any part hereof or the right of
+such party thereafter to enforce each and every such provision. No waiver of any
+breach of or non-compliance with this Agreement shall be held to be a waiver of
+any other or subsequent breach or non-compliance. The rights and remedies herein
+provided are cumulative and are not exclusive of any rights or remedies that any
+party may otherwise have at law or in equity.
+
+     8. Governing Law. This Agreement shall be governed by, and construed and
+enforced in accordance with, the substantive laws of the State of Delaware,
+without regard to its principles of conflicts of laws.
+
+     9. Notice. All notices and other communications hereunder shall be in
+writing and shall be deemed given if delivered by hand, sent by facsimile
+transmission with confirmation of receipt, sent via a reputable overnight
+courier service with confirmation of receipt requested, or mailed by registered
+or certified mail (postage prepaid and return receipt requested) to the parties
+at the following addresses (or at such other address for a party as shall be
+specified by like notice), and shall be deemed given on the date on which
+delivered by hand or otherwise on the date of receipt as confirmed:
+
+If to Buyer or Hittite:
+----------------------
+
+                          Hittite Microwave Corporation
+                          20 Alpha Road
+                          Chelmsford, MA 01824
+                          Attention:  William W. Boecke, Chief Financial Officer
+                          Facsimile:  (978) 250-3373
+
+
+with a copy to:
+--------------
+
+                          Foley Hoag LLP
+                          World Trade Center West
+                          155 Seaport Boulevard
+                          Boston, MA 02210
+                          Attn: Robert W. Sweet, Jr., Esq.
+                          Facsimile:  (617) 832-7000
+
+
+
+
+                                      -3-
+<PAGE>
+
+
+If to the Company or Simtek:
+---------------------------
+
+                          Simtek Corporation
+                          4250 Buckingham Drive
+                          Suite 100
+                          Colorado Springs, CO  80907
+                          Attention:  Harold Blomquist, President & CEO
+                          Facsimile:  (719) 531-9481
+
+with a copy to:
+--------------
+
+                          Holme Roberts & Owen LLP
+                          1700 Lincoln Street, Suite 4100
+                          Denver, Colorado 80203
+                          Facsimile:  (303) 866-0200
+
+     10. Construction of Agreement. A reference to a Section shall mean a
+Section in this Agreement unless otherwise expressly stated. The titles and
+headings herein are for reference purposes only and shall not in any manner
+limit the construction of this Agreement which shall be considered as a whole.
+The words "include," "includes" and "including" when used herein shall be deemed
+in each case to be followed by the words "without limitation."
+
+     11. Entire Agreement, Assignability, etc. This Agreement and the Asset
+Purchase Agreement and the documents and other agreements among the parties
+hereto and thereto as contemplated by or referred to herein or therein
+constitute the entire agreement among the parties with respect to the subject
+matter hereof and supersede all other prior agreements and understandings, both
+written and oral, between the parties with respect to the subject matter hereof.
+This Agreement shall be binding upon and inure to the benefit of the parties
+hereto and their respective successors and assigns. This Agreement is not
+intended to confer upon any person other than the parties hereto any rights or
+remedies hereunder, except as otherwise expressly provided herein and shall not
+be assignable by operation of law or otherwise.
+
+     12. Validity. The Seller Parties have independently consulted with their
+counsel and after such consultation agree that the covenants set forth in this
+Agreement are reasonable and proper. In the event that any provision of this
+Agreement shall be determined to be unenforceable by reason of its extension for
+too great a period of time or over too large a geographic area or over too great
+a range of activities, it shall be interpreted to extend only over the maximum
+period of time, geographic area or range of activities as to which it may be
+enforceable. If, after application of the preceding sentence, any provision of
+this Agreement shall be determined to be invalid, illegal or otherwise
+unenforceable by a court of competent jurisdiction, the validity, legality and
+enforceability of the other provisions of this Agreement shall not be affected
+thereby. Except as otherwise provided in this Section 12, any invalid, illegal
+or unenforceable provision of this Agreement shall be severable, and after any
+such severance, all other provisions hereof shall remain in full force and
+effect.
+
+
+
+
+
+
+
+
+                                      -4-
+<PAGE>
+
+
+     13. Remedies. Seller Parties recognize that money damages alone would not
+adequately compensate Buyer Parties and its Affiliates in the event of breach by
+Seller Parties of this Agreement, and Seller Parties therefore agree that, in
+addition to all other remedies available to Buyer Parties and its Affiliates, at
+law, in equity or otherwise, Buyer Parties and its Affiliates shall be entitled
+to injunctive relief for the enforcement hereof. All rights and remedies
+hereunder are cumulative and are in addition to and not exclusive of any other
+rights and remedies available, at law, in equity, by agreement or otherwise.
+
+     14. Counterparts. This Agreement may be executed in one or more
+counterparts, all of which together shall constitute one and the same Agreement.
+
+                                    * * * * *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -5-
+<PAGE>
+
+
+
+     IN WITNESS WHEREOF, the parties have caused this Agreement to be executed
+as an agreement under seal as of the date first written above.
+
+                                       Simtek Corporation
+
+                                       By:  /s/Harold A. Blomquist         
+                                            ------------------------------------
+                                       Name:    Harold A. Blomquist
+                                       Title:   President & CEO
+
+
+                                       Q-Dot, Inc.
+
+                                       By:  /s/Thomas E. Linnenbrink      
+                                            ------------------------------
+                                       Name:    Thomas E. Linnenbrink
+                                       Title:   President
+
+
+                                       Hittite Microwave Corporation
+
+                                       By:  /s/Stephen G. Daly                  
+                                            ------------------------------------
+                                       Name:    Stephen G. Daly
+                                       Title:   President & CEO
+
+
+                                       HMC Acquisition Corporation
+
+                                       By:  /s/Stephen G. Daly                  
+                                            ------------------------------------
+                                       Name:    Stephen G. Daly
+                                       Title:   President & CEO
+
+
+
+
+
+
+
+
+                                      -6-

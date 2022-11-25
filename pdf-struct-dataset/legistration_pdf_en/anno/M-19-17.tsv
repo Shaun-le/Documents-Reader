@@ -1,0 +1,447 @@
+EXECUTIVE OFFICE OF THE PRESIDENT	0	x
+OFFICE OF MANAGEMENT AND BUDGET	0	x
+WASHINGTON,  D.C.  20503	0	x
+May 21, 2019	0	x
+M-19-17	0	x
+MEMORANDUM FOR HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES	0	x
+FROM:        Russell T.  Vought	0	x
+Acting Director	0	x
+SUBJECT:   Enabling Mission Delivery through Improved Identity, Credential, and Access	0	x
+Management	0	x
+This memorandum sets forth the Federal Government's 1 Identity, Credential, and Access	0	c
+Management (ICAM) policy and includes the following sections:	0	d
+I.    Contextualizing Identity in the Federal Government	0	s
+II.  Managing Identities, Credentials, and Access in Modern Government	0	s
+III.  Adapting the Government's Approach to Homeland Security Presidential	0	c
+Directive 12 (HSPD-12)	0	s
+IV.    Shifting the Operating Model beyond the Perimeter	0	s
+V.    Improving Digital Interactions with the American Public	0	s
+VI.    Enumerating Government-wide Responsibilities	-1	s
+I.  Contextualizing Identity in the Federal Government	0	d
+For the purposes of this policy, "identity" refers to the unique representation of a subject,	0	c
+for example, a person, a device, a non-person entity (NPE), or an automated technology, that is	0	c
+engaged in a transaction involving at least one Federal subject or a Federal resource, for	0	c
+example, Federal information, a Federal information system,2  or a Federal facility or secured	0	c
+area.  This policy may refer to identity in two contexts: (1) Federal enterprise identity or (2)	0	c
+public identity.  Federal enterprise identity, or, simply, enterprise identity, refers to the unique	0	c
+representation of an employee, a contractor, an enterprise user, such as a mission or business	0	c
+partner, a device, or a technology that a Federal agency manages to achieve its mission and	0	c
+business objectives.  Public identity refers to the unique representation of a subject that a Federal	0	c
+agency interacts with, but does not directly manage, in order to achieve its mission and business	0	c
+objectives.  Public identity may also refer to a mechanism of trust used to render services to the	0	c
+American public.	20	s
+1 This memorandum is not applicable to national security systems (NSS) as defined in 44 U.S.C.  § 3552 (Federal	0	x
+Information Security Modernization Act of2014), although 0MB encourages owners and operators ofNSS to	0	x
+utilize the requirements in this document where appropriate.	0	x
+2 Pursuant to 0MB Circular A-130, "information system" means a discrete set of information resources organized	0	x
+for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information.	0	x
+II. Managing Identities, Credentials, and Access in Modern Government	0	d
+Advances in technology have enabled more digital interactions and business transactions,	0	c
+offering the Federal Government an opportunity for faster,  more reliable connections and	0	c
+operations.  In conjunction with this opportunity, however, a new set of challenges has emerged,	0	c
+because information about individuals has become more widely available through social media	0	c
+and breaches of personally identifiable information (PII).3  In favor of this opportunity, the	0	c
+Federal Government continues to refresh its digital infrastructure through comprehensive efforts	0	c
+focused on cybersecurity, procurement, and management of a workforce capable of operating	0	c
+modem, frequently cloud-based environments.  To address the challenges that have emerged	0	c
+alongside this opportunity, embedded within these efforts is an intensified focus on risk	0	c
+management and the adoption of processes, policies, and solutions that enhanc〜 privacy and	0	c
+security and that mitigate the degradation of operational service delivery.  Accordingly, identity	0	c
+management has become even more critical to the Federal Government's successful delivery of	0	c
+mission and business promises to the American public.  As such, through this Federal ICAM	0	c
+policy, the Government is enacting a common vision for identity as an enabler of mission	0	c
+delivery, trust, and safety of the Nation.	0	s
+To ensure secure and efficient operations, agencies of the Federal Government must be	0	c
+able to identify, credential, monitor, and manage subjects thataccess Federal resources,	0	c
+including information, information systems, facilities, and secured areas across their respective	0	c
+enterprises.  In particular, how agencies conduct identity proofing, establish enterprise digital	0	c
+identities, and adopt sound processes for authentication and access control significantly affects	0	c
+the security and delivery of their services, as well as individuals' privacy. 4	0	s
+Furthermore, in line with the Federal Government's updated approach to modernization,	0	c
+it is essential that agencies' ICAM strategies and solutions shift from the obsolete Levels of	0	c
+Assurance (LOA)5 model towards a new model informed by risk management perspectives, the	0	c
+Federal resource accessed, and outcomes aligned to agency missions.  To set the foundation for	0	c
+identity management and its usage to access physical and digital resources, agencies must	0	c
+implement National Institute of Standards and Technology (NIST) Special Publication (SP) 800-	0	c
+63-3  and any successive versions (hereafter referred to as NIST SP 800.:.63).  While NIST SP	0	c
+800-63  is the foundation for digital identity, agencies must use it in combination with the	0	c
+remaining suite of publications that relate to identity management issued by NIST, the Office of	0	c
+3 Per 0MB Circular A-130, "Personally Identifiable Information" means information that can be used to distinguish	0	x
+or trace an individual's identity, either alone or when combined with other information that is linked or linkable to a	0	x
+specific individual.	0	x
+4 For definitions of terms such as  digital identity, identity proofing, federation,  and credential, see NIST Special	0	x
+Publication (SP) 800-63-3, Digital Identity Guidelines (or any successive version) available· at	0	x
+5  The concept of LOA as  a single ordinal that drives implementation-specific requirement is retired. Rather, the	0	x
+updates to NIST 800-63-3 combine appropriate business and privacy risk management with mission need, and	0	x
+separate the individual elements of identity assurance into discrete, component parts.	0	x
+2	0	e
+Personnel Management (OPM), and the Department of Homeland Security (DHS) to form a	0	c
+comprehensive approach to identity proofing that safeguards privacy and security. 6	38	s
+III. Adapting the Government's Approach to Homeland Security Presidential Directive 12	0	c
+(HSPD-12)	0	d
+HSPD-12 remains the Government-wide policy for the promulgation of standards-based,	0	c
+secure, and reliable forms of identification issued by the Federal Government to its employees,	0	c
+contractors, and other enterprise users.  Additionally, Federal Information Processing Standard	0	c
+(FIPS) 201-2, Personal Identity  Verification (PIV)  ofFederal Employees and Contractors (or	0	c
+successive version),7 remains the Government-wide standard for common identification, as	0	c
+called for by HSPD-12.  In accordance with this standard, NIST guidelines, and Office of	0	c
+Personnel Management (OPM) requirements, a PIV credential is the aggregate output of the	0	c
+processes used for identity proofing, vetting, and authoritatively binding the identity of a human	0	c
+credential holder to an authenticator.  However, as technology evolves, the Government must	0	c
+offer flexible solutions to meet changing technology needs and shift the focus from managing the	0	c
+lifecycle of credentials to the lifecycle of identities.	0	d
+1.  Agencies shall follow the requirements issued by OPM regarding the eligibility to issue,	0	c
+suspend, and revoke PIV credentials. 8	0	s
+2.  Agencies shall require PIV credentials (where applicable in accordance with OPM	0	c
+requirements) as the primary means of identification and authentication to Federal	0	c
+information systems and Federally controlled facilities and secured areas by Federal	0	c
+employees and contractors.	0	d
+•  Agencies shall use Derived PIV Credentials9 for Federal employees, contractors,	0	c
+and other enterprise users (where applicable in accordance with OPM	0	c
+requirements) and to enable the acceptance of Derived PIV Credentials by	0	c
+applications and devices.	0	s
+7 FIPS 201-2, Personal Identity  Verification  (PIV)  ofFederal Employees and Contractors (or any successive	0	x
+version) is available at https://csrc.nist.gov/publications.	0	x
+8 OPM is  designated the Suitability and Credentialing Executive Agent in Executive Order.13764 Amending the	0	x
+Civil Service Rules, Executive Order 13488, and Executive Order 13467 To Modernize the Executive Branch-Wide	0	x
+Governance Structure and Processes for Security Clearances, Suitability and Fitness for Employment, and	0	x
+Credentialing, and Related Matters h  s://www.Federalre  ister. 0  ov/documents/2017/0l/23/2017-01623/amendin  -	0	x
+the-civil-service-rules-executive-order-13488-and-executive-order-13467-to-modemize-the.	0	x
+9 NIST SP 800-157 Guidelines for Derived Personal Identity Verification (PIV) Credentials (or any successive	0	x
+version or replacement guidelines) is available at h  s://csrc.nist.  ov/  ublications.	0	x
+3	0	e
+•  Agencies shall work with the Federal CIO Council, the Federal Privacy Council,	0	c
+ari.d NIST to pilot10  additional solutions (e.g., different authenticators) that meet	0	c
+the intent of HSPD-12 and advance the technical approach to managing identities.	0	c
+The output of these pilots will drive improvements to NIST guidelines and	0	c
+Government-wide ICAM requirements including areas such as mobile and cloud	0	c
+identity.	0	s
+•  Agencies shall implement processes to inanage access control, including the	0	c
+ability to revoke access privileges, when no longer authorized, and to revoke or	0	c
+destroy credentials in a timely manner.  This is necessary to prevent unauthorized	0	c
+access to information systems when the employee or contractor separates from the	0	c
+agency, or the credential has been lost.  Additionally, this serves to mitigate	0	c
+insider threats associated with compromised or potentially compromised	0	c
+credentials.	0	s
+•  Agencies shall ensure that use of the PIV credential for physical access to Federal	0	c
+facilities and secured areas is implemented in accordance with The Risk	0	c
+Management Process for Federal Facilities: An Interagency Security Committee	0	c
+Standard (or any successive version)11  and NIST SP 800-116 Rl, Guidelines for	0	c
+the  Use  ofPIV Credentials in Facility Access (or any successive version). 12	98	s
+3.  Agencies, in collaboration with 0MB as necessary, shall support cross-government	0	c
+identity federation and interoperability by identifying and resolving obstacles to	0	c
+accepting the PIV identity assertions from other agencies to grant access ( where	0	c
+authorized) to agency information systems, facilities, and secured areas.  This includes:	0	d
+•  Implementing processes for the electronic verification of PIV identity assertions	0	c
+from other agencies.	0	s
+•  Accepting and leveraging existing, valid PIV credentials, including those issued	0	c
+by other agencies and electronically verified, rather than issuing new ones.  This	0	c
+is equally applicable for logical and physical access (where authorized).	0	s
+10  Information on the process for requesting pilots is available at https://www.cio.gov/.	0	x
+11  The Risk Management Process for Federal Facilities: An lntefagency Security Committee Standard defines the	0	x
+criteria and processes that those responsible for the security of a facility should use to determine its facility security	0	x
+level, and provides an integrated, single source of physical security countermeasures. The guidance is _available at	0	x
+h  s://www.dhs.  ov/  ublications.                                                                  ·	0	x
+12  NIST 800  116 Rl (or any successive version) contains guidance on the use of PIV credentials in physical access	0	x
+control systems (P ACS). P ACS are information systems, and they include, for example, servers, databases,	0	x
+workstations,  and network appliances in either shared or isolated networks. The guidance is available at	0	x
+https://csrc.nist.gov/publications.	0	x
+4	0	e
+•  Establishing and maintaining agreements ( where required) to facilitate cross	0	c
+government identity federation.	134	s
+4;  Agencies shall establish capabilities aligned to Federal ICAM Architecture and	0	c
+Continuous Diagnostics and Mitigation (CDM) 13  requirements that enable the continuous	0	c
+vetting and evaluation of fitness of personnel subject to HSPD-12.	0	d
+•  These capabilities will strengthen the Federal Government's approach to make	0	c
+risk〜adaptive decisions regarding access to information systems, facilities, and	0	c
+secured areas as intended by HSPD-12.	154	s
+5.  Agencies shall require and implement the use of the PIV credential digital signature	0	c
+capability.  For individuals that fall outside the scope of PIV applicability, agencies	0	c
+should define and leverage credentials when using digital signatures.	0	s
+6.  Agencies should use PIV credentials as a method to encrypt information in transit and	0	c
+shared between two or more Federal employees or contractors.	81	s
+IV. Shifting the Operating Model beyond the Perimeter	0	d
+The interwoven technical architecture of the Federal Government creates complexity in	0	c
+managing access to resources, safeguarding networks, and protecting information.  While	0	c
+hardening the perimeter is important, agencies must shift from simply managing access inside	0	c
+and outside of the perimeter to using identity as the underpinning for managing the risk posed by	0	c
+attempts to access Federal resources made by users and information systems.  To ignite adoption	0	c
+of this new mindset around ICAM capability deployment across the Federal Government, each	0	c
+agency must harmonize its enterprise-wide approach to governance, architecture, and	0	c
+acquisition.	0	s
+Governance	0	d
+1.  Each agency shall designate an integrated agency-wide ICAM office, team, or other	0	c
+governance structure 14  in support of its Enterprise Risk Management capability to	0	c
+effectively govern and enforce ICAM efforts.	0	d
+13  The CDM program enhances the overall security and privacy posture of the Federal government by providing	0	x
+Federal agencies with capabilities to reduce the attack surface of their respective networks, identify cybersecurity	0	x
+risks, and enable agencies to prioritize actions to mitigate or accept risks based on the potential impacts to their	0	x
+missions.  CDM accomplishes this by working with agencies to deploy tools on agency networks that provide	0	x
+enterprise-wide visibility of what assets, users, and activities are on their networks. This actionable information	0	x
+allows agencies-to effectively monitor, defend, and rapidly respond to cyber incidents. Information on CDM is	0	x
+available at https://www.dhs.gov/cdm.	0	x
+14  Examples ofICAM governance structures is available at https://www.idmanagement.gov/.	0	x
+5	0	e
+•  This structure should include personnel from the offices of the Chief Information	0	c
+Officer, Chief Financial Officer, Human Resources, General Counsel, Chief	0	c
+Information Security Officer, Senior Agency Official for Privacy, Chief	0	c
+Acquisition Officer, Senior Official(s) responsible for Physical Security, and	0	c
+component organizations that manage ICAM programs and capabilities, including	0	c
+ICAM capabilities deployed through the CDM Program.	0	s
+•  Chief Operating Officers (COOs) 15  or the agency equivalent role shall ensure that	0	c
+there is regular coordination among agency leaders and mission owners to	0	c
+implement, manage, and maintain the agency's ICAM policies, processes, and	0	c
+technologies.	0	s
+•  While the agency governance structure described above will facilitate oversight of	0	c
+the implementation of Government-wide and agency enterprise-specific	0	c
+requirements, all bureaus, components, and other organizations at the sub	0	c
+enterprise level must support efforts to harmonize ICAM across their respective	0	c
+agency by adhering to requirements and fostering accountability at all levels of	0	c
+the organization.	175	s
+2.  Each agency shall define and maintain a single comprehensive ICAM policy, process,	0	c
+and technology solution roadmap, consistent with agency authorities and operational	0	c
+mission needs.  These items should encompass the agency's entire enterprise, align with	0	c
+the Government-wide Federal Identity, Credential, and Access Management (FICAM)	0	c
+Architecture and CDM requirements, incorporate applicable Federal policies, standards,	0	c
+playbooks, and guidelines, and include roles and responsibilities for all users. 16	0	s
+3.  Each agency shall outline agency-wide performance expectations for security and privacy	0	c
+risk management throughout the identity lifecycle.  These performance expectations shall	0	c
+support Government-wide management requirements, such as the President's	0	c
+Management Agenda (PMA) Cross Agency Priority (CAP) goals.	0	d
+•  Agencies shall incorporate objectives for improving ICAM into their strategic	0	c
+plans and review their progress with 0MB as part of their strategic reviews. 17	210	s
+15  Per M-18-19, the COO is responsible for providing overall organization management to improve and achieve the	0	x
+mission and goals of the agency.  COOs provide organizational leadership to improve performance of both mission	0	x
+and management functions.  For more information, refer to https://www.whitehouse . ..,ov/omb/infonnation-for	0	x
+agencies/memoranda/.	0	x
+17  Refer to 0MB Circular A-11  for more information on strategic planning and strategic reviews:	0	x
+https :/ /www. white house. gov/ omb/in formation-for-agencies/ circulars/.	0	x
+6	0	e
+4.  Each agency shall incorporate Digital Identity Risk Management18  into existing Federal	0	c
+processes as outlined in NIST SP 800-63, including the selection of assurance levels	0	c
+commensurate with the risk to their digital service offerings. 19	0	d
+•  Agencies shall use these levels to make risk-informed decisions when selecting	0	c
+and using processes and technologies implemented across the ICAM	0	c
+environment.	0	s
+•  Agencies shall update legacy e-Authentication risk assessments to shift away	0	c
+from the obsolete LOA model.	0	s
+•  Agencies shall coordinate with state, local, and tribal governments, other entities,	0	c
+and individuals to provide identity verification and access control appropriate to	0	c
+the risk level and performance of the business function in cases where information	0	c
+sharing or collection is required for business and mission functions.	0	s
+•  Agencies shall share feedback on their implementation of the Digital Identity Risk	0	c
+Management process with the Federal CIO Council, Federal Privacy Council, and	0	c
+NIST to drive improvements to NIST SP 800-63.	172	s
+Architecture	0	d
+1.  Agencies shall establish authoritative solutions for their ICAM services20 by rationalizing	0	c
+the ICAM capabilities that they will keep, replace, retire, or consolidate.  Agencies are	0	c
+encouraged to promote flexible and scalable solutions that can work across the agency	0	c
+and change as mission needs evolve.	0	s
+2.  Agencies shall ensure that deployed ICAM capabilities are interchangeable, use	0	c
+commercially available products, and leverage open Application Programming Interfaces	0	c
+(APis) and commercial standards to enable componentized development and promote	0	c
+interoperability across all levels of government.	0	s
+3.  Agencies shall manage the digital identity lifecycle of devices, non-person entities	0	c
+(NPEs), and automated technologies such as Robotic Process Automation (RPA) tools	0	c
+and Artificial Intelligence (AI), ensuring the digital identity is distinguishable, auditable,	0	c
+and consistently managed across the agency.  This includes establishing mechanisms to	0	c
+bind, update, revoke, and destroy credentials for the device or automated technology.	0	s
+18  Requirements in NIST SP 800-63 provide specific g4idance related to digital identity risk (inclusive of privacy)	0	x
+that agency relying parties apply while executing all relevantRMF lifecycle phases. Digital identity risk	0	x
+management does not establish additional risk management processes for agencies.	0	x
+19  Federal employees and contractors are required to be identity proofed and credentialed in accordance with 0MB	0	x
+and OPM policy.  Therefore, digital identity risk assessments described in NIST SP 800-63  complement, rather than	0	x
+supersede, the guidance and requirements ofHSPD-12.	0	x
+7	0	e
+4.  Agencies that are authoritative sources for attributes ( e.g., SSN) utilized in identity	0	c
+proofing· events, as selected by 0MB and permissible by law, shall establish privacy	0	c
+enhanced data validation APis for public and private sector identity proofing services to	0	c
+consume, providing a mechanism to improve the assurance of digital identity verification	0	c
+transactions based on consumer consent.	0	d
+•  These selected agencies, in coordination with 0MB, shall establish standard	0	c
+processes and terms of use for public and private sector identity proofing services	0	c
+that want to consume the APis.	260	s
+5.  Agencies shall leverage federated solutions to accept identity and authentication	0	c
+assertions made by mission and business partners.	0	d
+•  Agencies shall accept assertions by partners based on digital identity risk and	0	c
+associated assurance levels in accordance with NIST guidelines and Government	0	c
+wide ICAM requirements. 21	0	s
+•  Agencies shall confirm that these assertions use open commercially available	0	c
+standards to the extent available.                                             ·	235	s
+Acquisition	0	d
+1.  · Agencies shall require all contracts requiring contractors to have access to Federally	0	c
+controlled facilities or access to Federally controlled information systems to include a	0	c
+requirement to comply with HSPD-12 and FIPS 201  for affected contractor personnel	0	c
+based on OPM requirements and the Federal Acquisition Regulation (FAR).22	0	s
+2.  Agencies shall confirm that products and services acquired to further their HSPD-12	0	c
+and ICAM implementations are compliant with 0MB policy, NIST standards, and	0	c
+supporting technical specifications.23	0	s
+3.  Agencies shall leverage approved Best in Class and Tier 2 contract vehicles, 24 or	0	c
+Federally provided shared services, to procure digital certificates for identification and	0	c
+authentication of Federal enterprise identities.	0	s
+21  This list of requirements for accepting externally issued credentials is available at	0	x
+h  s://www.idmana  ement.  ov/.	0	x
+22  The Federal Acquisition Regulation, FAR, 48 C.F.R.  Subpart 4.13, requires agencies to comply with FIPS 201  for	0	x
+contractors who require routine logical or physical access and includes language to this effect in applicable	0	x
+solicitations and contracts.             ·	0	x
+23  Approved products and services, such as those on the GSA Approved Products List (APL) are available at	0	x
+https://www.idmanagement.!;;>ov/.	0	x
+24 M-19-13  outlines guidance on the implementation of category management principles and use of common	0	x
+contract solutions. For more information, refer to h  s://www.whitehouse.  ov/omb/information-for	0	x
+agencies/memoranda/.	0	x
+8	0	e
+4.  Agencies shall leverage the CDM Program to accelerate their procurement and	0	c
+deployment of tools related to the ICAM capabilities in Phase 2 or future phases.	0	d
+•  Agencies shall work with the CDM Program to understand requirements·and	0	c
+identify future CDM phase capabilities that support ICAM goals.	163	s
+V.  Improving Digital Interactions with the American Public	0	d
+Improving the trust and safety of transactions with the public across the Federal Government is	0	c
+critical to digital service delivery.  It is imperative that agencies manage the risk to services and	0	c
+public user data at a level commensurate with the risk inherent to the digital offering as well as	0	c
+with the sensitivity of the data collected to provide the digital offering.	0	d
+1.  Agencies shall ensure that identity proofing for Federal digital services provided to public	0	c
+consumers aligns with NIST guidance and Government-wide ICAM requirements.	0	s
+2.  Agencies shall limit the collection of PII for establishing an individual's identity to that	0	c
+which is legally authorized, relevant, and deemed reasonably necessary.	0	d
+• . Once collected, agencies shall ensure that PII is protected commensurate with the	0	c
+level of risk it harbors, which may include the implementation of robust practices	0	c
+, and technologies.	305	s
+3.  Agencies shall establish processes based on digital identity risk and associated assurance	0	c
+levels to allow an individual to bind, update, use, and disassociate non-Government	0	c
+furnished authenticators to their digital identity when accessing Federal digital services	0	c
+provided to public consumers.	0	s
+4.  Agencies shall leverage existing credentials and identity federations that meet the	0	c
+agency's determined acceptable risk level rather than standing up processes or	0	c
+capabilities to issue new credentials to users.	0	s
+5.  Agencies shall use Federally provided or commercially provided shared services,25  to the	0	c
+extent available, to deliver identity assurance and authentication services to the public.	0	d
+•  These shared services shall align with NIST SP 800-63  security and privacy	0	c
+requirements.	0	s
+•  With appropriate consent and privacy protections, agencies should share proofing	0	c
+confirmations across agencies to reduce public burden for having to submit	0	c
+identity data more than once to access Federal Government services.	0	s
+9	0	e
+•  Where appropriate, and when individuals' consent is not obtainable, agencies	0	c
+should modify existing Privacy Act system of record notices to include routine	0	c
+uses permitting the disclosure of proofing information to reduce public burden for	0	c
+having to submit identity data more than once to access Federal Government	0	c
+services.	0	s
+•  Agencies should solicit and document direct feedback from consumers to	0	c
+determine whether there is demand for the use of other service providers. If	0	c
+consumers demand a certain service provider and the provider meets the mission	0	c
+requirements, agencies should consider federating with that credential provider.	0	s
+•  Agencies should use shared service providers that leverage more than one	0	c
+solution to enhance enterprise resiliency in case of a compromise or other service	0	c
+failure.	297	s
+VI. Enumerating Government-wide Responsibilities	0	d
+The following agencies lead Government-wide efforts to improve the management and use of	0	c
+digital identity.	0	s
+The Department of Commerce (DOC) is responsible for the following actions:	0	d
+1.  Publish and maintain, within six months of the issuance of this policy, a roadmap with	0	c
+timelines and milestones for developing new and updating existing NIST guidance	0	c
+related to ICAM;	0	s
+2.  Develop and issue guidance to promote the deployment of technology, including open	0	c
+source software that address agency digital identity needs such as new implementations	0	c
+of technology intended to meet agency use cases for devices, automated technologies,	0	c
+mobile, and cloud;	0	s
+3.  Develop guidance to facilitate deployment and use of derived credentials for logical and	0	c
+physical access using authenticators that satisfy the security and privacy requirements of	0	c
+NIST SP 800-63 while leveraging the PIV identity proofing process;	0	s
+4.  Establish, develop, and maintain resources for federation protocols, identity proofing, and	0	c
+authentication in alignment with NIST SP 800-63;	0	s
+5.  Utilize feedback provided by agencies to make improvements to NIST SP 800-63-3  and	0	c
+other guidance; and	0	s
+6.  Develop criteria, in coordination with the General Services Administration (GSA), for	0	c
+accrediting products and services that meet the assurance levels outlined in NIST SP 800-	0	c
+63.	339	s
+10	0	e
+GSA26  is responsible for the.following actions:	0	d
+1.  Develop and maintain, within six months of the issuance of this policy, a roadmap for	0	c
+providing or updating GSA solutions and shared services that allow agencies to achieve	0	c
+the outcomes in 0MB ICAM policy and NIST standards and guidelines;	0	s
+2.  Publish and maintain, within three months of the issuance of this policy, a consolidated	0	c
+catalog of existing ICAM solutions and shared services that agencies can leverage	0	c
+immediately to begin meeting the requirements of this memorandum;             ·	0	s
+3.  Maintain and support, in coordination with 0MB and DHS, the evolution of the	0	c
+Government-wide FICAM Architecture and associated guidance, previously published in	0	c
+the FICAM Roadmap and Implementation Guidance,  v2. 0:  FICAM Playbooks, and	0	c
+establish and maintain a repository for agency best practices;	0	s
+4.  Maintain and innovate the FIPS 201  evaluation process, and associated Approved	0	c
+Products List (APL), to enable the acquisition of interoperable solutions for physical and	0	c
+logical access control;	0	s
+5.  Determine the feasibility, in coordination with OMB〜  of establishing or leveraging a	0	c
+public or private sector capability for accrediting ICAM products and services available	0	c
+on GSA acquisition vehicles, and confirm the capability leverages NIST developed	0	c
+criteria for 800-:63  assurance levels.  This capability should support and not duplicate	0	c
+existing Federal approval processes;	0	s
+6.  Innovate capabilities and update Federal Public Key Infrastructure (PKI)27  to provide	0	c
+government with a trust framework and infrastructure to administer digital certificates	0	c
+and other authentication solutions, such as those based on public key cryptography.  This	0	c
+includes updating the PKI shared service provider approach to enable strong government	0	c
+oversight of service providers, including procurement and cost controls through GSA	0	c
+acquisition solutions as applicable;28  and	0	s
+7.  Ensure that all GSA acquisition solutions for ICAM meet all relevant law, 0MB circulars	0	c
+and policies, Federal Acquisition Regulations, and NIST standards. 29	358	s
+26  GSA serves as the executive agency for Government-wide acquisitions of information technology related to	0	x
+identity management initiatives.  This designation is given to GSA in accordance with section 5112(e) of the	0	x
+Clinger-Cohen Act of 1996 (40 U.S.C.  § 11302(e)).  In this capacity, GSA maintains the GSA APL, developed to	0	x
+organize and define a standardized approval process for PIV products and services.	0	x
+27 Federal PKI provides the government with a common approach to administer digital certificates and public	0	x
+private key pairs for specific use cases.	0	x
+28  A comprehensive list of certified PKI service providers for the Federal government is available at	0	x
+29  As part of its agency reform initiatives generally, and Multiple Award Schedule (MAS) Reform initiative	0	x
+specifically, GSA shall strive to implement policies within eighteen (18) months of the effective date of this	0	x
+11	0	e
+OPM is responsible for the following actions:	0	d
+1.  Develop, in coordination with 0MB and NIST, a vetting and credentialing model to	0	c
+assist agencies in making an HSPD-12 risk determination for employees, contractors, and	0	c
+other users accessing Federal information systems30  and information from non-Federally	0	c
+. controlled facilities,  such as a seasonal employee or an administrator for a cloud service;	0	c
+and	0	s
+· 2.  Update, within one (1) year of the issuance of this policy, vetting requirements for	0	c
+eligibility for a HSPD-12 aligned credential that enables physical and logical access to	0	c
+· Federally controlled facilities and information systems.  This update will consolidate	0	c
+applicability requirements from Executive Orders on Suitability and 0MB Memo M-05-	0	c
+24, to include applicability specifications for non-U.S. national and temporary agency	0	c
+employees. 31	395	s
+DHS is responsible for the following actions:	0	d
+1.  Ensure that the Risk Management Process for Federal Facilities: An Interagency Security	0	c
+Committee Standard, and other pertinent Interagency Security Committee (ISC)	0	c
+guidance, are aligned with Government-wide policy for the implementation of PIV	0	c
+credentials;  .	0	s
+2.  Lead research and development (R&D) coordination with the interagency, private sector,	0	c
+and international partner stakeholders to identify ICAM mission needs with related	0	c
+technology capability gaps, including in particular those that cannot be solved with	0	c
+currently fielded technologies, and that may require additional R&D investment to reach	0	c
+operational deployment maturity; and	0	s
+3.  Develop and publish, in consultation with GSA, OPM, 0MB, and DOC a Physical	0	c
+Access Control System (P ACS) security and privacy control overlay32 to help agencies	0	c
+identify core controls for PACS.	-1	s
+memorandum which reduce customer confusion, and enhance MAS' s internal coordination with respect to HSPD-12	0	x
+and Physical Access Control Systems (P ACS).	0	x
+30 Per 0MB Circular A-130, "Federal information system" means an information system used or operated by an	0	x
+agency or by_ a contractor of an agency or by another organization on behalf of an agency.	0	x
+31  Final Credentialing Standards for Issuing Personal Identity  Verification Cards under HSPD-12,	0	x
+htt  s://www.o  m.oov/investi  ations/suitabili  -executive-a  ent/  olic  /.	0	x
+32 An "overlay" is a specification of security or privacy controls, control enhancements, supplemental guidance, and	0	x
+other supporting information employed during the tailoring process, that is intended to complement (and further	0	x
+refine) security control baselines.  For additional information on developing security control baselines, refer to 0MB	0	x
+Circular A-130, Managing Information as  a Strategic Resource, and NIST SP 800-53, Security and Privacy	0	x
+Controls for Federal Information Systems and Organizations.  These documents are available at	0	x
+https://www.whitehouse.gov/omb/infonnation-for-agencies/circu1ars/ and h  s://csrc.nist.  ov/  ublications.	0	x
+12	0	e
+Rescissions	0	d
+0MB rescinds the following with the release of this memorandum:	0	d
+1.  M-04-04, E-Authentication Guidance for Federal Agencies	0	s
+2.  M-05-05, Electronic Signatures: How to Mitigate the Risk ofCommercial Managed	0	c
+Services	0	s
+3.  M-06-18, Acquisition ofProducts and Services for Implementation ofHSPD-12	0	s
+4.  M-11-11, Continued Implementation ofHomeland Security Presidential Directive	0	c
+(HSP D) 12 - Policy for a Common Identification Standard for Federal Employees and	0	c
+Contractors	0	s
+5.  0MB Memorandum, Requirements/or Accepting Externally-Issued Identity Credentials,	0	c
+October 6, 2011	433	s
+Policy Assistance	0	d
+Address all questions or inquiries regarding this memorandum to the 0MB Office ofthe Federal	0	c
+Chief Information Officer (OFCIO) via email:  ofcio@omb.eop.gov.	0	s
+13	0	e

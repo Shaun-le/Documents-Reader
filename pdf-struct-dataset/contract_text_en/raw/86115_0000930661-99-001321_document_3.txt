@@ -1,0 +1,470 @@
+<PAGE>
+ 
+                                                                    EXHIBIT 10.1
+
+
+            NON-COMPETITION, REFERRAL AND NON-DISCLOSURE AGREEMENT
+
+          NON-COMPETITION, REFERRAL AND NON-DISCLOSURE AGREEMENT (the
+"Agreement"), dated as of May 10 , 1999, by and between CompuCom Systems, Inc.,
+a Delaware corporation ("CompuCom"), and ENTEX Information Services, Inc., a
+Delaware corporation ("Seller").
+
+                                   RECITALS
+
+WHEREAS, CompuCom and Seller have entered into an Asset Purchase Agreement dated
+             as of May  10 , 1999 (the "Asset Purchase Agreement");
+
+          WHEREAS, the execution of this Agreement is a condition to CompuCom
+acquiring, and Seller disposing of, the Purchased Assets (as defined in the
+Asset Purchase Agreement) in connection with the Asset Purchase Agreement;
+
+          NOW, THEREFORE, in consideration of the mutual covenants and
+agreements set forth herein, CompuCom and Seller hereby agree as follows:
+
+                                   ARTICLE I
+
+
+                                  DEFINITIONS
+
+          1.1  For purposes of this Agreement, the following terms have the
+following meanings:
+
+           (1) "Configuration" means the preparation of a computer and related
+                -------------                                                 
+     hardware and integration of components into a computer system; provided
+                                                                    --------
+     that the term "Configuration" shall not include installation of a computer
+     or related hardware at a customer site.
+
+           (2) "Non-Competition Period" means the period commencing on May 12,
+                ----------------------          
+     1999 and ending on May 11, 2000.
+
+           (3) "Product" means any computer or related hardware and peripherals
+                -------                                                        
+     (including hubs, switches and routers or networking hardware) or software
+     products (including networking software products) which CompuCom has the
+     ability to sell.
+
+           (4) "Product Business" means the acceptance and fulfillment of
+                ----------------                                         
+     customer orders for Products, including the manufacturing, channel
+     assembly, co-location or centralized image loading and Configuration of
+     Products; provided that the term "Product Business" shall not include on-
+               --------                                                      
+     site Configuration of computer or related
+<PAGE>
+ 
+     hardware or software products made subsequent to the initial image
+     load/configuration.
+
+           (5) "Outsourcing and Professional Services" means (a) consulting,
+                -------------------------------------                       
+     system migrations, project management, other services typically referred to
+     as "high-end" services, and (b) outsourcing contracts having a term of more
+     than one year which require pricing be done on a per seat basis. Agreements
+     that consist primarily of lower-end services, including, but not limited
+     to, break/fix, IMAC, warranty and low-end staff augmentation, other than
+     agreements priced on a per-seat basis, are not Outsourcing and Professional
+     Services agreements.
+
+           (6) "Service Accounts" means the customer accounts of Seller listed
+                ----------------                                              
+     on Exhibits B and C hereto.
+        ----------------        
+
+           (7) "Services" means all IT services offered by Seller, including,
+                --------                                                     
+     but not limited to, all outsourcing, professional services, break/fix,
+     staff augmentation and consulting services; provided that the term
+                                                 --------              
+     "Services" shall not include (i) on-site Configuration of Products by
+     CompuCom or (ii) the sale (but not the performance) by CompuCom of extended
+     warranty contracts at time of initial sale of Products to customers.
+
+           (8) "Subsidiary," with respect to any person, means (i) any
+                ----------                                            
+     corporation of which the outstanding capital stock having at least a
+     majority of the votes entitled to be cast in the election of directors
+     under ordinary circumstances shall at the time be owned, directly or
+     indirectly, by such person or (ii) any other person of which at least a
+     majority of the voting interest under ordinary circumstances is at the
+     time, directly or indirectly, owned by such person.
+
+          Capitalized terms used in this Agreement and not otherwise defined
+shall have the meanings ascribed thereto in the Asset Purchase Agreement.
+
+
+
+                                        
+                                  ARTICLE II
+                                        
+                            AGREEMENT TO COOPERATE
+
+
+          Subject to the limitations set forth in Article III, Seller and
+CompuCom agree that with respect to each account listed on Exhibit A hereto,
+                                                           ---------        
+that until the earlier of (a) May 11, 2000 or (b) the termination of the
+existing contract between Seller and such account (i) each party will cooperate
+with the other in delivering Services and Products to such account in
+substantially the same manner in which such Services and Products were delivered
+to such
+
+                                      -2-
+<PAGE>
+ 
+account prior to Closing and (ii) each party's representative will be permitted
+to call on such account.
+
+                                  ARTICLE III
+
+
+                           AGREEMENT NOT TO COMPETE
+
+          3.1  Seller's Agreement.  (a) Seller agrees that during the Non-
+               ------------------                                        
+Competition Period Seller will not, and will not permit any of its Subsidiaries
+to:
+
+          (i)    engage in the Product Business;
+
+          (ii)   encourage any Service Account to specify a party other than
+     CompuCom to provide Products and image load/configurations to such Service
+     Account; or
+
+          (iii)  solicit, entice or induce any employee of CompuCom or any
+     Subsidiary of CompuCom to terminate his or her employment with CompuCom or
+     any Subsidiary of CompuCom or hire any person who was or is at any time
+     from the date of execution of the Asset Purchase Agreement to the end of
+     the Non-Competition Period an employee of CompuCom or any Subsidiary of
+     CompuCom.
+
+          (b)  Seller agrees that during the Non-Competition Period Seller will,
+and will cause its Subsidiaries to use commercially reasonable efforts  to cause
+future Service customers to whom Seller provides Outsourcing and Professional
+Services and  existing Service customers of Seller to whom Seller is able to
+expand its Services, to procure Products and image load/configuration from
+CompuCom in accordance with the provisions of Article IV, provided that CompuCom
+is not competing with Seller to provide future or expanded Services to such
+customers.
+
+          Notwithstanding the foregoing, Seller shall be permitted to preserve
+its ability to resell Products to the extent required by existing customer
+agreements if (i) the customer refuses to approve of CompuCom providing such
+Products after Seller uses commercially reasonable efforts to obtain such
+approval, (ii) CompuCom rejects the customer order for such Products pursuant to
+Article IV (provided that CompuCom shall comply with the requirements of the
+Asset Purchase Agreement with respect to such agreements), or (iii) CompuCom
+fails to meet the requirements of the customer agreement, including but not
+limited to price, payment terms, return privileges and service level agreements
+("SLA's) (subject to applicable cure periods).  In addition, Seller shall be
+permitted (A) to arrange for the procurement of computers or related hardware
+and software products as agent for customers in connection with future
+Outsourcing and Professional Services engagements, subject to Seller's
+obligations under Section 3.1(b) and the conditions provided for in the
+immediately preceeding sentence (B) to refer orders for Products for delivery
+outside the
+
+                                      -3-
+<PAGE>
+ 
+United States to comply with Seller's obligations under Seller's international
+alliance agreements and (C) to perform initial on-site image load/configuration
+and augmentation in a manner consistent with Seller's current business
+practices, provided that Seller agrees that during the Non-Competition Period,
+it will not actively encourage any Services customer to move its initial image
+load/configuration business from CompuCom's configuration facilities to the
+customer`s site.
+
+          3.2  CompuCom's Agreement.  (a) CompuCom agrees that during the Non-
+               --------------------                                          
+Competition Period CompuCom will not, and will not permit any of its
+Subsidiaries to:
+
+          (i)    provide any Services to any account listed on Exhibit B hereto;
+                                                               ---------        
+
+          (ii)   provide any Services to any account listed on Exhibit C hereto
+     except to the extent provided for in such Exhibit; or
+
+          (iii)  except as contemplated by the Asset Purchase Agreement,
+     solicit, entice or induce any employee of Seller or any Subsidiary of
+     Seller to terminate his or her employment with Seller or any Subsidiary of
+     Seller or hire any person who was or is at any time from the date of
+     execution of the Asset Purchase Agreement to the end of the Non-Competition
+     Period an employee of Seller or any Subsidiary of Seller.
+
+          Notwithstanding the foregoing, CompuCom shall be permitted to  provide
+     Services under any "request for proposal", bid, contract or statement of
+     work submitted by CompuCom to the applicable potential customer prior to
+     May 12, 1999 .  In the event of a dispute between CompuCom and Seller as to
+     the matters covered by  the immediately preceeding sentence, CompuCom shall
+     furnish, in response to the reasonable request of Seller, evidence and
+     shall have the burden of proving, that the applicable "request for
+     proposal", bid, contract or statement of work was submitted by CompuCom to
+     the customer prior to May 12, 1999.
+
+          (b) CompuCom agrees that it will refer to Seller the performance of
+     extended warranty service (other than manufacturers' warranties) or
+     warranty upgrades sold by CompuCom to any Service Accounts, provided that
+     Seller has the ability to perform such extended warranty service or
+     warranty upgrades except that CompuCom may continue to perform extended
+     warranty services and warranty upgrades in accordance with the provisions
+     of Exhibit C. The parties agree to negotiate in good faith the terms,
+     conditions and amount of payment Seller will receive for performing such
+     warranty service or warranty upgrades.
+
+                                      -4-
+<PAGE>
+ 
+                                  ARTICLE IV
+
+
+                         Acceptance of Product Orders
+
+          CompuCom agrees that during the Non-Competition Period, it will accept
+orders for Products submitted to CompuCom by Seller pursuant to Section 3.1(b)
+under the following conditions:  (i) CompuCom has the ability to offer such
+Product for sale; (ii) the purchase price required by the customer order for the
+Product is reasonably acceptable to CompuCom; (iii) such Product offered by
+CompuCom meets the customer's specifications, including, but not limited to,
+configuration specifications; and (iv) the requirements of the customer with
+respect to such Product, including but not limited to delivery, payment terms
+and return privileges are reasonably acceptable to CompuCom.  CompuCom agrees to
+notify Seller of CompuCom's rejection of such orders for Product within a
+mutually agreed upon time that is reasonable under the time constraints required
+by the customer order or contract.
+
+                                   ARTICLE V
+
+
+                                 NON-DISCLOSURE
+
+          5.1  Seller's Non-Disclosure Obligations.  Seller covenants and agrees
+               -----------------------------------                              
+that, unless otherwise required by law, from and after the Closing:
+
+          (a)  Seller shall cooperate with CompuCom at CompuCom's expense to
+     protect and safeguard all of CompuCom's Confidential Information; and
+
+          (b)  Seller shall not, directly or indirectly, use, sell, license,
+     publish, disclose, or otherwise transfer or make available to others any of
+     CompuCom's Confidential Information.
+
+          As used in this Agreement, the terms "CompuCom's Confidential
+Information" means proprietary or confidential information concerning the
+Business including, without limitation, information regarding prices charged for
+Products, the assets, liabilities, and financial condition of the Business,
+names and identities of customers and analyses of the amount and types of
+Products purchased by each such customer.
+
+          Notwithstanding the foregoing, Seller shall be permitted to disclose
+historical financial information, including financial information relating to
+the Business, as may be required by customers, vendors, lenders or other third
+parties, provided that such third parties shall agree to preserve the
+         --------                                                    
+confidentiality of such information.
+
+          5.2  CompuCom's Non-Disclosure Obligations.  CompuCom covenants and
+               -------------------------------------                         
+agrees that unless otherwise required by law, from and after the Closing:
+
+                                      -5-
+<PAGE>
+ 
+          (a)  CompuCom shall cooperate with Seller at Seller's expense to
+     protect and safeguard all of Seller's Confidential Information;
+
+          (b)  CompuCom shall not, directly or indirectly, use, sell, license,
+     publish, disclose or otherwise transfer or make available to others any of
+     Seller's Confidential Information; and
+
+          (c)  CompuCom shall not solicit or knowingly utilize any of Seller's
+     Confidential Information regarding Seller's Services business from any
+     former employee of Seller.
+
+As used in this Agreement, the terms "Seller's Confidential Information" means
+proprietary or confidential information and business secrets of Seller
+pertaining to its Services Business including, without limitation, information
+regarding prices charged for Services, copies of existing Services contracts to
+which Seller is a party (other than any such contracts provided to CompuCom
+pursuant to the provisions of the Asset Purchase Agreement) and analyses of the
+amount and types of Services purchased by customers.
+
+                                   ARTICLE VI
+
+
+                                 MISCELLANEOUS
+
+          6.1  Notices, Etc.  All notices, requests, demands or other
+               ------------                                          
+communications required by or otherwise with respect to this Agreement shall be
+in writing and shall be deemed to have been duly given to any party when
+delivered personally (by courier service or otherwise), when delivered by
+facsimile and confirmed by return facsimile, or five business days after being
+mailed by first-class mail, postage prepaid in each case to the applicable
+addresses set forth below:
+
+          If to Seller, to:
+
+               ENTEX Information Services, Inc.
+               Six International Drive
+               Rye Brook, N.Y. 10573
+               Facsimile No.:  (914) 935-3720
+
+
+               Attention:  Lynne A. Burgess, Esq.,
+                           Senior Vice President and General Counsel
+
+                                      -6-
+<PAGE>
+ 
+          with a copy (which shall not constitute notice to Seller) to:
+
+               Cahill Gordon & Reindel
+               80 Pine Street
+               New York, NY 10005
+               Facsimile No.: (212) 269-5420
+
+
+               Attention:  Gerald S. Tanenbaum, Esq.
+
+          If to CompuCom, to:
+
+               CompuCom Systems, Inc.
+               7171 Forest Lane
+               Dallas, Texas 75230
+               Facsimile No.: (972) 856-5395
+
+
+               Attention:  Ms. Lazane Smith, Senior Vice President
+                           and Chief Financial Officer
+
+          with a copy (which shall not constitute notice to CompuCom) to:
+
+               Strasburger & Price, L.L.P.
+               901 Main Street, Suite 4300
+               Dallas, Texas  75202
+               Facsimile No.: (214) 651-4330
+
+
+               Attention:  Frederick J. Fowler, Esq.
+
+or to such other address as such party shall have designated by notice so given
+to each other party.
+
+          6.2  Amendments, Waivers, Termination Etc.  This Agreement may not be
+               ------------------------------------                            
+amended, changed, supplemented, waived or otherwise modified or terminated
+except by an instrument in writing signed by each of the parties hereto.
+
+          6.3  Successors and Assigns.  This Agreement shall be binding upon and
+               ----------------------                                           
+shall inure to the benefit of and be enforceable by the parties and their
+respective successors and assigns, including without limitation by merger or
+otherwise.  This Agreement shall not be assignable.
+
+          6.4  Entire Agreement.  This Agreement and the Asset Purchase
+               ----------------                                        
+Agreement embody the entire agreement and understanding among the parties
+relating to the subject matter hereof and supersede all prior agreements and
+understandings relating to such subject
+
+                                      -7-
+<PAGE>
+ 
+matter. There are no covenants by the parties hereto relating to such subject
+matter other than those expressly set forth in this Agreement and the Asset
+Purchase Agreement.
+
+          6.5  Specific Performance.  The parties acknowledge that money damages
+               --------------------                                             
+are not an adequate remedy for violations of this Agreement and that any party
+may, in its sole discretion, apply to a court of competent jurisdiction for
+specific performance or injunctive or such other relief as such court may deem
+just and proper in order to enforce this Agreement or prevent any violation
+hereof and, to the extent permitted by applicable law, each party waives any
+objection to the imposition of such relief.
+
+          6.6  Remedies Cumulative.  All rights, powers and remedies provided
+               -------------------                                           
+for under this Agreement or otherwise available in respect hereof at law or in
+equity shall be cumulative and not alternative, and the exercise or beginning of
+the exercise of any thereof by any party shall not preclude the simultaneous or
+later exercise of any other such right, power or remedy by such party.
+
+          6.7  No Waiver.  The failure of any party hereto to exercise any
+               ---------                                                  
+right, power or remedy provided under this Agreement or otherwise available in
+respect hereof at law or inequity, or to insist upon compliance by any other
+party hereto with its obligations hereunder, and any custom or practice of the
+parties at variance with the terms hereof, shall not constitute a waiver by such
+party of its right to exercise any such or other right, power or remedy or to
+demand such compliance.
+
+          6.8  Severability.  Each party agrees that, should any court or other
+               ------------                                                    
+competent authority hold any provision of this Agreement or part hereof to be
+null, void or unenforceable, or order any party to take any action inconsistent
+herewith or not to take an action consistent herewith or required hereby, the
+validity, legality and enforceability of the remaining provisions and
+obligations contained or set forth herein shall not in any way be affected or
+impaired thereby. Upon any such holding that any provision of this Agreement is
+null, void or unenforceable, the parties will negotiate in good faith to modify
+this Agreement so as to effect the original intent of the parties as closely as
+possible in an acceptable manner to the end that the transactions contemplated
+by this Agreement are consummated to the extent possible.
+
+          6.9  GOVERNING LAW.  THE VALIDITY AND INTERPRETATION OF THIS AGREEMENT
+               -------------                                                    
+AND THE TERMS AND CONDITIONS SET FORTH HEREIN SHALL BE GOVERNED BY AND CONSTRUED
+IN ACCORDANCE WITH THE LAWS OF THE STATE OF DELAWARE APPLICABLE TO CONTRACTS
+MADE AND TO BE PERFORMED WHOLLY THEREIN, WITHOUT GIVING EFFECT TO ANY PROVISIONS
+THEREOF RELATING TO CONFLICTS OF LAW.
+
+                                      -8-
+<PAGE>
+ 
+          6.10  Name, Captions.  The name assigned to this Agreement and the
+                --------------                                              
+section captions used herein are for convenience of reference only and shall not
+affect the interpretation or construction hereof.
+
+          6.11  Counterparts.  This Agreement may be executed in any number of
+                ------------                                                  
+counterparts, each of which shall be deemed to be an original, but all of which
+together shall constitute one instrument. Each counterpart may consist of a
+number of copies each signed by less than all, but together signed by all, the
+parties hereto.
+
+          6.12  Referral Fees.  To the extent that the parties agree that the
+                -------------                                                
+payment of referral fees will further their mutual business interests or is
+required in order to compensate either party for material services rendered for
+the benefit of the other, the parties agree to negotiate the terms and
+conditions of the payment of such referral fees in good faith.
+
+                                      -9-
+<PAGE>
+ 
+          IN WITNESS WHEREOF, the parties have duly executed this Agreement as
+of the date first above written.
+
+                          COMPUCOM SYSTEMS, INC.
+
+                          By:
+                              ------------------------------------
+                              Name:      Lazane M. Smith
+                              Title:     Senior Vice President and
+                                         Chief Financial Officer
+
+                          ENTEX INFORMATION SERVICES, INC.
+
+                          By:
+                              ------------------------------------
+                              Name:      Kenneth A. Ghazey
+                              Title:     President
+
+                                      -10-
